@@ -1,0 +1,4 @@
+#コメント
+*.class
+
+WebContent/WEB-INF/lib/
